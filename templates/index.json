@@ -234,12 +234,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_94H4ph": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Expositor_Blanco_Wdseb.webp",
+            "column_size": "3",
+            "title": "Mehdi B.",
+            "heading_tag": "h4",
+            "content": "<p>Entre le NFC et le QR Code, tout le monde peut l’utiliser. Même les clients qui ne connaissent pas le NFC comprennent immédiatement. </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_NyBj4W",
         "item_EzfzrW",
-        "item_9GJY9C"
+        "item_9GJY9C",
+        "item_94H4ph"
       ],
       "name": "Multi-column",
       "settings": {
