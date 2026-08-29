@@ -122,17 +122,17 @@
         "text_color": ""
       }
     },
-    "video_HpwHhD": {
-      "type": "video",
-      "name": "Video",
+    "image_with_text_overlay_Qhr78t": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/Tarjeta Reseñas Google.mp4",
-        "mobile_video": "shopify://files/videos/Tarjeta Reseñas Google.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_29_aout_2026_13_40_10.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -144,7 +144,7 @@
         "heading_MVeYny": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Une nouvelle façon de booster vos avis",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -164,16 +164,17 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_Qhr78t": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "video_HpwHhD": {
+      "type": "video",
+      "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Tarjeta Reseñas Google.mp4",
+        "mobile_video": "shopify://files/videos/Tarjeta Reseñas Google.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -198,10 +199,11 @@
         "item_NyBj4W": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis1.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Lucas K.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je présente la carte juste après la prestation, quand le client est encore devant moi. Les clients satisfaits laissent leur avis tout de suite et j’ai naturellement beaucoup plus de 5 étoiles. Ça a vraiment boosté ma fiche Google.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -210,10 +212,11 @@
         "item_EzfzrW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis2.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sarah M.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Aucun abonnement et rien à installer. Le client approche son téléphone et arrive directement sur ma fiche Google. C’est devenu un réflexe au salon</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -222,10 +225,11 @@
         "item_9GJY9C": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis3.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Thomas L.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J’en ai pris plusieurs pour mon équipe. Chacun garde sa carte sur lui et peut la présenter directement après avoir servi un client. Très pratique.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -467,9 +471,9 @@
     "image_with_text_overlay_LW4prY",
     "logo_list_KQJEeV",
     "rich_text_G88jyQ",
-    "video_HpwHhD",
-    "rich_text_dqiTUb",
     "image_with_text_overlay_Qhr78t",
+    "rich_text_dqiTUb",
+    "video_HpwHhD",
     "custom_liquid_RMAtWN",
     "multi_column_AwxVeb",
     "featured_product_QgTt9w",
