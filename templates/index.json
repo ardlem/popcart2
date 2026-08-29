@@ -15,8 +15,8 @@
         "heading_iddiwt": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h2"
+            "text": "Ne laissez plus filer vos avis.",
+            "heading_tag": "h3"
           }
         }
       },
@@ -29,11 +29,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/carrusel_social_16.webp",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 29
       }
     },
     "logo_list_KQJEeV": {
@@ -42,6 +43,7 @@
         "logo_L4MFg3": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/3MMRXEoimSfmUdrHNNHgywnyP2Dip_aKv_s-rnpirg0wfd_CT6c2dqJ7ZJBlMEoXw_Q5HwSlL4N6xemX2YiTYPDBkt2jlZUbH19zehrrQzvfdpDtvhcSR8Qurs6O9iS6ERG3JdbsuGHtxqtv9udHi_5vreLwgvzP7Us8c4GXaNpBuMkxz6FLJ3b.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -49,6 +51,7 @@
         "logo_J67gz6": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/EyeeQkMHxcYZDcY5Y_kCs6QRG0orw4lw-QqDSLUTV6EPOKwkTErTxtAIgdQh2SVGReIGWFrmmYgSiyEmT_kIFmngOjuh7DCNz1k_b5z-VEdV6xBPlFogepiRlCaNrE2PbQk4e3M3fIJSpxgXGwqaS7lb6ngndiaNTAeuvysYalrTlfx3ueR-kwC.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -56,6 +59,7 @@
         "logo_jAMNch": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Logo-Les-Numeriques-Connect.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -63,6 +67,7 @@
         "logo_7Qxymg": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ERgEBq8MnBupflP2eMfPg1V3PrkrkFvHAC9MHND3DkekwFokALJpEeam22QTUBQSuJhZI_G0NqZgzdp1cemq0ZKPyB7JVxm3wJv0vKkyL2nJkBoQXDNif6sYAVtEtEdC6JzJQFukUxBS6LInyghGeUlkudEws3LCCuCgy6aj0jMch89fSvAW4IR.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -117,19 +122,35 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_wDfjYk": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "video_HpwHhD": {
+      "type": "video",
+      "blocks": {
+        "play_pDeB4J": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_amVHaV": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_pDeB4J",
+        "heading_amVHaV"
+      ],
+      "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 30
       }
     },
     "rich_text_dqiTUb": {
@@ -461,7 +482,7 @@
     "image_with_text_overlay_LW4prY",
     "logo_list_KQJEeV",
     "rich_text_G88jyQ",
-    "image_with_text_overlay_wDfjYk",
+    "video_HpwHhD",
     "rich_text_dqiTUb",
     "image_with_text_overlay_Qhr78t",
     "custom_liquid_RMAtWN",
