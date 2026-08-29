@@ -311,30 +311,30 @@
         "collapsible_text_r8RKKd": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-box",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "CONTENU DE LA LIVRAISON",
+            "content": "<p>Votre commande comprend :</p><p><strong>• 1 carte d’avis Google NFC</strong><br/><br/><strong>• 1 QR Code intégré</strong><br/><br/><strong>• 1 porte-carte de protection</strong><br/><br/><strong>• 1 tour de cou</strong><br/><br/><strong>• Un guide de configuration rapide</strong></p><p>Votre carte est conçue pour être utilisée immédiatement après sa configuration.</p>",
             "page": ""
           }
         },
         "collapsible_text_eQwPjL": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-truck",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "DÉLAIS DE LIVRAISON & EXPÉDITION",
+            "content": "<p>Votre commande est préparée avec soin sous <strong>2 à 3 jours ouvrés</strong>.</p><p>Le délai de livraison estimé est ensuite de <strong>7 à 12 jours ouvrés</strong> après l’expédition.</p><p>Un <strong>numéro de suivi</strong> vous sera transmis afin de suivre votre colis jusqu’à sa réception.</p>",
             "page": ""
           }
         },
         "collapsible_text_AdrcNE": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-customer-support",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "SERVICE CLIENT RÉACTIF",
+            "content": "<p>Notre équipe est disponible pour répondre à vos questions et vous accompagner dans la <strong>configuration de votre carte</strong>.</p><p>Un problème pour connecter votre établissement Google ? Nous vous guidons étape par étape.</p><p>Notre service client répond généralement sous <strong>24h ouvrées</strong>.</p>",
             "page": ""
           }
         }
