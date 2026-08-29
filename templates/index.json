@@ -374,10 +374,11 @@
         "item_jHqW3D": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_29_aout_2026_14_39_16.png",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p><strong>83 % des personnes consultent les avis avant de choisir un établissement.</strong></p><p>Plus vous avez <strong>d’avis et de bonnes évaluations</strong>, plus vous avez de chances d’apparaître <strong>haut dans les résultats Google</strong> et <strong>d’attirer davantage de clients</strong>.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -398,34 +399,66 @@
         "button_text_color": ""
       }
     },
-    "multiple_images_with_text_mPLewf": {
-      "type": "multiple-images-with-text",
+    "multi_column_eJnLLg": {
+      "type": "multi-column",
       "blocks": {
-        "item_AT9Lhx": {
+        "item_VXkGKT": {
           "type": "item",
           "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "image": "shopify://shop_images/slide_1_tarjeta_pt.webp",
+            "column_size": "3",
+            "title": "Scannez le QR Code de vos cartes",
+            "heading_tag": "h4",
+            "content": "<p>Lorsque vous recevez vos cartes, <strong>scannez simplement le QR Code une première fois</strong> pour les configurer.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TXxRH8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/slide_3_tarjeta_pt.webp",
+            "column_size": "3",
+            "title": "Écrivez le nom de votre établissement sur Google Maps",
+            "heading_tag": "h4",
+            "content": "<p>Il vous suffit de <strong>sélectionner votre établissement</strong> dans le moteur de recherche relié à <strong>Google Maps</strong>, puis d’<strong>enregistrer la bonne option</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WQgEAd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/tarjeta_2_slide_pt.webp",
+            "column_size": "3",
+            "title": "Votre Popcart est prêt !",
+            "heading_tag": "h4",
+            "content": "<p>C’est aussi simple que ça.<br/>Désormais, lorsqu’un client approche son téléphone, il est <strong>redirigé directement</strong> pour laisser son <strong>avis sur Google</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "item_AT9Lhx"
+        "item_VXkGKT",
+        "item_TXxRH8",
+        "item_WQgEAd"
       ],
-      "name": "Multiple images with text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": ""
       }
     },
     "faq": {
@@ -434,29 +467,53 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Est-ce compliqué à installer ?",
+            "content": "<p>Non. À la réception, scannez simplement le QR Code, recherchez votre établissement sur Google Maps et validez-le. Votre carte est ensuite prête à être utilisée.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Dois-je télécharger une application ?",
+            "content": "<p>Non. Aucune application n’est nécessaire, ni pour vous ni pour vos clients.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce compatible avec tous les téléphones ?",
+            "content": "<p>La grande majorité des smartphones récents sont compatibles NFC. Et si le NFC n’est pas disponible, le client peut simplement scanner le QR Code.</p>"
+          }
+        },
+        "item_eaH49j": {
+          "type": "item",
+          "settings": {
+            "title": "Que se passe-t-il lorsque mon client approche son téléphone ?",
+            "content": "<p>Il est directement redirigé vers votre fiche Google afin de pouvoir laisser son avis en quelques secondes.</p>"
+          }
+        },
+        "item_DEAKdz": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il un abonnement mensuel ?",
+            "content": "<p>Non. Vous achetez votre carte une seule fois, sans abonnement obligatoire.</p>"
+          }
+        },
+        "item_tckgdt": {
+          "type": "item",
+          "settings": {
+            "title": "Je ne suis pas très à l’aise avec la technologie, vais-je réussir à la configurer ?",
+            "content": "<p>Oui. La configuration ne prend que quelques étapes. Nos guides vous accompagnent du déballage jusqu’au premier avis.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_eaH49j",
+        "item_DEAKdz",
+        "item_tckgdt"
       ],
       "settings": {
         "full_width": false,
@@ -492,7 +549,7 @@
     "multi_column_AwxVeb",
     "featured_product_QgTt9w",
     "multiple_images_with_text_JCtEVR",
-    "multiple_images_with_text_mPLewf",
+    "multi_column_eJnLLg",
     "faq"
   ]
 }

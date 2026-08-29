@@ -25,8 +25,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Notre histoire",
+            "content": "<p>Née à <strong>Lyon</strong>, notre entreprise aide les commerces à obtenir plus facilement des avis Google grâce à une solution simple, rapide et sans friction.</p>",
             "enable_follow_on_shop": true
           }
         },
